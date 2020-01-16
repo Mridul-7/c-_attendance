@@ -1,0 +1,15 @@
+D:\COLLEGE\c#_project\attendance\attendance\bin\Debug\attendance.exe.config
+D:\COLLEGE\c#_project\attendance\attendance\bin\Debug\attendance.exe
+D:\COLLEGE\c#_project\attendance\attendance\bin\Debug\attendance.pdb
+D:\COLLEGE\c#_project\attendance\attendance\bin\Debug\MetroFramework.dll
+D:\COLLEGE\c#_project\attendance\attendance\bin\Debug\MetroFramework.Fonts.dll
+D:\COLLEGE\c#_project\attendance\attendance\obj\Debug\attendance.csprojAssemblyReference.cache
+D:\COLLEGE\c#_project\attendance\attendance\obj\Debug\attendance.Main.resources
+D:\COLLEGE\c#_project\attendance\attendance\obj\Debug\attendance.Login.resources
+D:\COLLEGE\c#_project\attendance\attendance\obj\Debug\attendance.Properties.Resources.resources
+D:\COLLEGE\c#_project\attendance\attendance\obj\Debug\attendance.csproj.GenerateResource.cache
+D:\COLLEGE\c#_project\attendance\attendance\obj\Debug\attendance.csproj.CopyComplete
+D:\COLLEGE\c#_project\attendance\attendance\obj\Debug\attendance.exe
+D:\COLLEGE\c#_project\attendance\attendance\obj\Debug\attendance.pdb
+D:\COLLEGE\c#_project\attendance\attendance\obj\Debug\attendance.Addclass.resources
+D:\COLLEGE\c#_project\attendance\attendance\obj\Debug\attendance.Students.resources
